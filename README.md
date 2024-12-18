@@ -1,100 +1,22 @@
- <!-- Header Section -->
-<p align="center" style="font-family: 'Times New Roman', serif; font-size: 28px;">
-  <img src="https://via.placeholder.com/1200x400.png?text=Salve!+I+Am+Soubhagya!&bg=gold&fg=black" alt="Header Banner" style="width:100%;"/>
-  <b>🌟 Welcome to My GitHub Profile! 🌟</b>
+ <h1 align="center">Hi 👋, I'm Soubhagya Kumar Mishra</h1>
+<h3 align="center">🎓 MCA Student | 💻 Web Developer & UI Developer I specialize in building intuitive and responsive web interfaces. Passionate about creating elegant, user-friendly designs and writing clean, efficient code.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soubhagyakumarmishra&label=Profile%20views&color=0e75b6&style=flat" alt="soubhagyakumarmishra" /> </p>
+
+- 🌱 I’m currently learning **Tech Stack: Frontend: HTML, CSS, JavaScript, React.js Backend: Node.js, Express.js Database: MongoDB, MySQL Version Control: Git, GitHub**
+
+- 📫 How to reach me **soubhagyamishra02@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/soubhagyakumarmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soubhagyakumarmishra" height="30" width="40" /></a>
+<a href="https://fb.com/soubhagyakumarmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soubhagyakumarmishra" height="30" width="40" /></a>
+<a href="https://instagram.com/soubhagyakumarmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soubhagyakumarmishra" height="30" width="40" /></a>
 </p>
 
-<h1 align="center" style="font-family: 'Times New Roman', serif; font-size: 36px; color: darkred;">Soubhagya Kumar Mishra</h1>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p align="center" style="font-family: 'Garamond', serif; font-size: 22px; color: black;">
-  <i>"A Developer with a Passion for Excellence."</i>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soubhagyakumarmishra&show_icons=true&locale=en&layout=compact" alt="soubhagyakumarmishra" /></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Visitor Count">
-</p>
-
----
-
-## 🎨 **Who Am I?**
-
-<p style="font-family: 'Times New Roman', serif; font-size: 18px; color: black; text-align: justify;">
-🌟 Greetings! I am a proud **MCA Graduate** with expertise in **Web Development** and **UI Design**.  
-💻 My mission is to craft visually stunning and highly functional web applications.  
-🎯 I thrive on innovation and love solving real-world challenges through technology.  
-💡 Always on a journey to master the art of full-stack development and contribute to impactful projects.
-</p>
-
----
-
-## 🏛️ **Tech Stack**
-
-<p align="center">
-  <img src="https://img.icons8.com/color/100/000000/html-5--v1.png" alt="HTML5" style="border-radius: 50%; width: 80px; margin: 10px; border: 2px solid darkred;"/>
-  <img src="https://img.icons8.com/color/100/000000/css3.png" alt="CSS3" style="border-radius: 50%; width: 80px; margin: 10px; border: 2px solid darkred;"/>
-  <img src="https://img.icons8.com/color/100/000000/javascript--v1.png" alt="JavaScript" style="border-radius: 50%; width: 80px; margin: 10px; border: 2px solid darkred;"/>
-  <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React" style="border-radius: 50%; width: 80px; margin: 10px; border: 2px solid darkred;"/>
-  <img src="https://img.icons8.com/color/100/000000/bootstrap.png" alt="Bootstrap" style="border-radius: 50%; width: 80px; margin: 10px; border: 2px solid darkred;"/>
-  <img src="https://img.icons8.com/color/100/000000/nodejs.png" alt="Node.js" style="border-radius: 50%; width: 80px; margin: 10px; border: 2px solid darkred;"/>
-  <img src="https://img.icons8.com/color/100/000000/mongodb.png" alt="MongoDB" style="border-radius: 50%; width: 80px; margin: 10px; border: 2px solid darkred;"/>
-</p>
-
----
-
-## 📊 **GitHub Analytics**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&bg_color=ffffff&hide_title=true" alt="GitHub Stats" style="width:48%; border: 2px solid black; border-radius: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default&hide_border=true" alt="GitHub Streak" style="width:48%; border: 2px solid black; border-radius: 10px;"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default&bg_color=ffffff" alt="Top Languages" style="width:50%; border: 2px solid black; border-radius: 10px;"/>
-</p>
-
----
-
-## 📜 **Highlighted Projects**
-
-<table align="center" style="font-family: 'Times New Roman', serif; font-size: 18px; color: black; border-collapse: collapse; width: 100%;">
-  <tr>
-    <td align="center" style="width: 50%; border: 2px solid darkred; padding: 10px;">
-      <img src="https://via.placeholder.com/300x200.png?text=Portfolio+Website" alt="Portfolio" style="width:100%; border-radius: 10px;"/>
-      <p><b>🌐 Portfolio Website</b></p>
-      <p>A responsive and elegant portfolio showcasing my projects and skills.</p>
-      <p><b>Tech Stack:</b> HTML, CSS, JavaScript, Bootstrap</p>
-      <a href="#" target="_blank" style="color: darkred; font-weight: bold;">🔗 View Project</a>
-    </td>
-    <td align="center" style="width: 50%; border: 2px solid darkred; padding: 10px;">
-      <img src="https://via.placeholder.com/300x200.png?text=E-commerce+App" alt="E-commerce" style="width:100%; border-radius: 10px;"/>
-      <p><b>🛒 E-commerce App</b></p>
-      <p>A full-stack application with modern UI and secure backend integration.</p>
-      <p><b>Tech Stack:</b> React, Node.js, MongoDB</p>
-      <a href="#" target="_blank" style="color: darkred; font-weight: bold;">🔗 View Project</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌐 **Let's Connect!**
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.icons8.com/color/100/000000/linkedin.png" alt="LinkedIn" style="border-radius: 50%; width: 80px; margin: 10px; border: 2px solid darkred;"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.icons8.com/color/100/000000/gmail.png" alt="Email" style="border-radius: 50%; width: 80px; margin: 10px; border: 2px solid darkred;"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.icons8.com/color/100/000000/domain.png" alt="Portfolio" style="border-radius: 50%; width: 80px; margin: 10px; border: 2px solid darkred;"/>
-  </a>
-</p>
-
----
-
-## ✨ **Quote of the Day**
-
-<p align="center" style="font-family: 'Garamond', serif; font-size: 20px; color: darkred;">
-  <i>"Per aspera ad astra – Through hardships to the stars."</i>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soubhagyakumarmishra&show_icons=true&locale=en" alt="soubhagyakumarmishra" /></p>
