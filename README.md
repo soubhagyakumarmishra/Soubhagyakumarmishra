@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@soubhagyakumar_" target="blank"><img src="https://img.shields.io/twitter/follow/@soubhagyakumar_?logo=twitter&style=for-the-badge" alt="@soubhagyakumar_" /></a> </p>
 
-- 💬 Ask me about **Hi, I'm Soubhagya Kumar Mishra! I'm a passionate UI Developer and Web Developer with a strong focus on creating intuitive and visually appealing user experiences. I recently graduated from Centurion University, Bhubaneswar, and have been honing my skills in front-end development and web technologies. 🚀 What I Do Design and develop responsive and user-friendly web interfaces. Implement modern UI/UX best practices to deliver seamless user experiences. Work with tools and technologies like [list relevant tools/frameworks you use, e.g., React, , HTML, CSS, JavaScript].**
+- 💬 Ask me about **  I'm a passionate UI Developer and Web Developer with a strong focus on creating intuitive and visually appealing user experiences. I recently graduated from Centurion University, Bhubaneswar, and have been honing my skills in front-end development and web technologies. 🚀 What I Do Design and develop responsive and user-friendly web interfaces. Implement modern UI/UX best practices to deliver seamless user experiences. Work with tools and technologies like [list relevant tools/frameworks you use, e.g., React, , HTML, CSS, JavaScript].**
 
 - 📫 How to reach me **soubhagyamishra02@gmail.com**
 
