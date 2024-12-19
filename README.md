@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm Soubhagya Kumar Mishra</h1>
-<h3 align="center">🎓 MCA Student | 💻 Web Developer & UI Developer I specialize in building intuitive and responsive web interfaces. Passionate about creating elegant, user-friendly designs and writing clean, efficient code.</h3>
+<h3 align="center">🎓 MCA Graduate | 💻 Web Developer & UI Developer I specialize in building intuitive and responsive web interfaces. Passionate about creating elegant, user-friendly designs and writing clean, efficient code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soubhagyakumarmishra&label=Profile%20views&color=0e75b6&style=flat" alt="soubhagyakumarmishra" /> </p>
 
